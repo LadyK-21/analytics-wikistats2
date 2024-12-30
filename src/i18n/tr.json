@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Asma",
 			"BaRaN6161 TURK",
 			"Hedda",
 			"Joseph",
 			"MuratTheTurkish",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"ToprakM"
 		]
 	},
 	"general-title": "Wikimedia İstatistikleri",
@@ -17,6 +19,7 @@
 	"general-total": "toplam",
 	"general-date": "tarih",
 	"general-name": "ad",
+	"general-choose-language": "tercih ettiğiniz dili seçin",
 	"general-original_wikistats": "Özgün Vikisayım",
 	"areas-reading": "Okuma",
 	"areas-contributing": "Katkı Sağlama",
@@ -284,7 +287,7 @@
 	"footer-about_wikistats": "Vikisayım hakkında",
 	"footer-technology": "Teknoloji",
 	"footer-data_it_uses": "Kullandığı veriler",
-	"footer-privacy_policy": "Gizlilik İlkesi",
+	"footer-privacy_policy": "Gizlilik Politikası",
 	"footer-contributing": "Katkı sağlama",
 	"footer-contributing_guide": "Katkı kılavuzu",
 	"footer-translate": "Vikidurumları Çevirmeye Yardım Edin",
@@ -319,6 +322,7 @@
 	"tooltip-breakdown-name-bot": "\"Bot\" içeren bir adı olan bir kullanıcı (bunun BottlenoseDolphin gibi adlar içerebileceğini unutmayın)",
 	"tooltip-breakdown-user": "Metrikleri düzenlemek için kayıtlı, oturum açmış bir kullanıcı; metrikleri okuyan bir insan kullanıcı",
 	"tooltip-breakdown-spider": "Genellikle web arama motorları olmak üzere, siteleri dizine ekleyen bir bilgisayar programı",
+	"tooltip-breakdown-automated": "Buluşsal yöntemler tarafından gerçekten bir bilgisayar programı olduğu belirlenen bir kullanıcı aracısı",
 	"tooltip-breakdown-content": "\"Ana Ad Alanı\" olarak da adlandırılır, sıfır ve diğer birkaç ad alanındaki maddeleri içerir",
 	"tooltip-breakdown-non-content": "Tartışma sayfaları, kullanıcı sayfaları vb. içeriksiz olarak adlandırılır",
 	"tooltip-breakdown-1..4-edits": "Gösterilen her ay veya günde 1 ile 4 arasında düzenleme yapıldı",
@@ -326,6 +330,11 @@
 	"tooltip-breakdown-5..24-edits": "Gösterilen her ay veya günde 5 ile 24 arasında düzenleme yapıldı",
 	"tooltip-breakdown-25..99-edits": "Gösterilen her ay veya günde 25 ile 99 arasında düzenleme yapıldı",
 	"tooltip-breakdown-100..-edits": "Gösterilen her ay veya günde 100 veya daha fazla düzenleme yapıldı",
+	"tooltip-breakdown-image": "Bir resim dosyası, genellikle commons'ta saklanan ve diğer vikilerden bağlantı verilen",
+	"tooltip-breakdown-video": "Bir video dosyası, genellikle commons'ta saklanan ve diğer vikilerden bağlantı verilen",
+	"tooltip-breakdown-audio": "Bir ses dosyası, genellikle commons'ta saklanan ve diğer vikilerden bağlantı verilen",
+	"tooltip-breakdown-document": "Bir belge dosyası, genellikle commons'ta saklanan ve diğer vikilerden bağlantı verilen",
+	"tooltip-breakdown-other": "Başka bir dosya türü, genellikle commons'ta saklanan ve diğer vikilerden bağlantı verilen",
 	"status_overlay-no_data": "Bu projede bu tarih aralığı için kullanılabilir veri yok",
 	"status_overlay-non_global": "{metricName} metriği, tüm projeler için mevcut değildir. Belirli bir viki seçin",
 	"status_overlay-non_global_family": "{metricName} metriği {project} için kullanılamıyor. Belirli bir viki seçin",
