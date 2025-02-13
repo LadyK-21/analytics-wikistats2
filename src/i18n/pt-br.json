@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Duke of Wikipädia",
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
+			"Felipe L. Ewald",
+			"Mello25",
 			"TheEduGobi",
 			"YuriNikolai"
 		]
@@ -16,6 +19,7 @@
 	"general-total": "total",
 	"general-date": "data",
 	"general-name": "nome",
+	"general-choose-language": "Escolha o seu idioma preferido",
 	"general-original_wikistats": "Wikistats original",
 	"areas-reading": "Leitura",
 	"areas-contributing": "Contribuindo",
@@ -232,7 +236,7 @@
 	"metrics-top-mediarequests-breakdowns-media_type-values-document-name": "Documento",
 	"metrics-top-mediarequests-breakdowns-media_type-values-other-name": "Outros",
 	"metrics-active-editors-by-country-name": "Editores ativos por país",
-	"metrics-active-editors-by-country-description": "A contagem por país de editores com cinco ou mais edições, incluindo em páginas de redirecionamento",
+	"metrics-active-editors-by-country-description": "Editores por país em diferentes níveis de atividade; edições em páginas de redirecionamento inclusas.",
 	"metrics-active-editors-by-country-tooltip": "Editores por país em diferentes níveis de atividade; edições em páginas de redirecionamento inclusas.",
 	"metrics-active-editors-by-country-question": "De quais países vêm os editores ativos?",
 	"metrics-active-editors-by-country-breakdowns-activity-level-name": "Nível de atividade",
@@ -316,8 +320,9 @@
 	"tooltip-breakdown-anonymous": "Um usuário que não entrou",
 	"tooltip-breakdown-group-bot": "Um robô que é registrado e faz parte do grupo de usuários do robô",
 	"tooltip-breakdown-name-bot": "Um usuário com um nome que contenha \"robô\" (observe que isso pode incluir nomes como BottlenoseDolphin)",
-	"tooltip-breakdown-user": "Um usuário registrado e entrado",
+	"tooltip-breakdown-user": "Um usuário registrado e conectado para métricas de edição; um usuário humano nas métricas de leitura",
 	"tooltip-breakdown-spider": "Um programa de computador que percorre sites para indexá-los, geralmente mecanismos de pesquisa na web",
+	"tooltip-breakdown-automated": "Um agente de usuário que foi determinado por heurística como sendo um programa de computador",
 	"tooltip-breakdown-content": "Também chamado de \"espaço nominal principal\", inclui artigos no espaço nominal zero e alguns outros",
 	"tooltip-breakdown-non-content": "Páginas de discussão, páginas de usuário etc. são chamadas de Não Conteúdo",
 	"tooltip-breakdown-1..4-edits": "Realizado entre 1 e 4 edições em cada mês ou dia mostrado",
@@ -325,6 +330,11 @@
 	"tooltip-breakdown-5..24-edits": "Realizado entre 5 e 24 edições em cada mês ou dia mostrado",
 	"tooltip-breakdown-25..99-edits": "Realizadas entre 25 e 99 edições em cada mês ou dia mostrado",
 	"tooltip-breakdown-100..-edits": "Realizou 100 ou mais edições em cada mês ou dia mostrado",
+	"tooltip-breakdown-image": "Um arquivo de imagem, geralmente armazenado em commons e vinculado a outras wikis",
+	"tooltip-breakdown-video": "Um arquivo de vídeo, geralmente armazenado em commons e vinculado a outras wikis",
+	"tooltip-breakdown-audio": "Um arquivo de áudio, geralmente armazenado em commons e vinculado a outras wikis",
+	"tooltip-breakdown-document": "Um arquivo de documento, geralmente armazenado em commons e vinculado a outras wikis",
+	"tooltip-breakdown-other": "Outro tipo de arquivo, geralmente armazenado em commons e vinculado a outras wikis",
 	"status_overlay-no_data": "Não há dados disponíveis para este período neste projeto",
 	"status_overlay-non_global": "A métrica {metricName} não está disponível para todos os projetos. Selecione uma wiki específica",
 	"status_overlay-non_global_family": "A métrica {metricName} não está disponível para {project}. Selecione uma wiki específica",
